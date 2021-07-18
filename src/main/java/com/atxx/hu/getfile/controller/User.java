@@ -13,7 +13,7 @@ public class User {
 //    }
     @RequestMapping("/getViewend")
     public void getViewend(){
-        System.out.println("这里时结束");
+        System.out.println("这里时结");
     }
 
 }
