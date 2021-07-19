@@ -15,6 +15,7 @@ public class User {
     public void getViewend(){
         System.out.println("这里结......");
         System.out.println("这里结two");
+        System.out.println("这里结three");
     }
 
 }
