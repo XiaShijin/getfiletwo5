@@ -14,6 +14,7 @@ public class User {
     @RequestMapping("/getViewend")
     public void getViewend(){
         System.out.println("这里结......");
+        System.out.println("这里结two");
     }
 
 }
